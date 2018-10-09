@@ -1,0 +1,8 @@
+#currencySelectorContainer {
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+#baseCurrencySelect {
+    margin-right: 20px;
+}

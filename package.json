@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.4",
+    "bootstrap": "^3.3.7",
+    "fs": "0.0.1-security",
+    "highcharts": "^6.1.4",
+    "loadash": "^1.0.0",
+    "match-sorter": "^2.3.0",
+    "papaparse": "^4.6.1",
     "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-highcharts": "^16.0.2",
+    "react-scripts": "2.0.4",
+    "react-table": "^6.8.6",
+    "underscore": "^1.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
